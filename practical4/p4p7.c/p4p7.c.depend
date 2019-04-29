@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556373548 source:c:\users\dhruvin\desktop\mca_sem2\dsc\practical 4\p4p7.c\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556496084 source:c:\users\dhruvin\desktop\mca_sem2\dsc\practical 6\p2p2.c\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
